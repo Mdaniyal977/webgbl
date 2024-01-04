@@ -168,7 +168,7 @@ header {
 
 .banner {
     padding: 10vh 0px;
-    background-image: url(./images/background.png);
+    background-image: url(./images/blogbanner.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
